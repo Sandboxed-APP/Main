@@ -1,6 +1,7 @@
 # Sandboxed
-Platform powered by PenguinMod and Flow.
+Game platform powered by PenguinMod and Flow.
 
 Sandboxed is an innovative platform designed for interactive play, allowing users to access and enjoy a variety of Scratch games within a single, unified space. With Sandboxed, players can explore a vast library of games created by the Scratch community, while also having the ability personalize games to suit their preferences. The platform serves as a gaming hub where users can enjoy their favorite games all within an intuitive, user-friendly environment. Whether you're looking to dive into existing games or create your own, Sandboxed offers endless possibilities for fun and creativity.
 
-### Expected Release Date: January 2025
+### Released: January 2025
+### Latest Version: DEV-1.1.1.0
